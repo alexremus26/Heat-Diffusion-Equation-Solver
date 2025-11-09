@@ -22,7 +22,7 @@ on the domain $\Omega = [0, 5] \times [0, 2]$, subject to:
 * **Neumann Boundary Conditions:** On $x=0$ and $x=5$.
 
 ## Technologies Used
-* **Python 3.x**
+* **Python**
 * **NumPy:** For numerical operations and dense matrix handling in the QR solver.
 * **SciPy:** Specifically `scipy.sparse` and `scipy.sparse.linalg.spsolve` for handling the main FDM linear system.
 * **Matplotlib:** For 3D visualization of solutions and error surfaces, and 2D convergence plots.
