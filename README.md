@@ -21,7 +21,7 @@ on the domain $\Omega = [0, 5] \times [0, 2]$, subject to:
 * **Dirichlet Boundary Conditions:** On $y=0$ and $y=2$.
 * **Neumann Boundary Conditions:** On $x=0$ and $x=5$.
 
-## Technologies Used
+## Libraries Used
 * **Python**
 * **NumPy:** For numerical operations and dense matrix handling in the QR solver.
 * **SciPy:** Specifically `scipy.sparse` and `scipy.sparse.linalg.spsolve` for handling the main FDM linear system.
